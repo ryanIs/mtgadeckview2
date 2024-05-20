@@ -1,0 +1,92 @@
+#nav {
+  font-size: 2em;
+  position: fixed;
+  background: rgba(0,0,0,0.3);
+}
+
+#nav a {
+  color: black;
+  background: lightgray;
+  border-radius: 30px;
+  padding: 2px 10px;
+  margin-right: 15px;
+  text-decoration: none;
+}
+
+#nav a:hover {
+  opacity: 0.5;
+}
+
+// body {
+.mainn {
+  /* background: black; */
+  background: #002200;
+  // color: black;
+  font-family: Beleren, Arial;
+  /* Trajan Sans Pro  */
+
+  // Nature backgrounds are the best.
+  background-image: url("nature-background.jpg");
+        background-position: center;
+        background-size: 100% auto;
+        /* background-c */
+        /* background-size: auto; */
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+}
+
+.outt {
+  display: flex;
+}
+
+.card-box img {
+  display: block;
+  min-width: 200px;
+  min-height: 400px;
+  margin: 5px;
+  max-width: 286px;
+  max-height: 400px;
+
+  border: 4px solid transparent;
+  border-radius: 13px;
+}
+
+.cost {
+  font-size: 2em;
+  padding: 5px;
+  margin: 5px;
+  margin-left: 100px;
+  /* background: #227722; */
+  background: #000;
+  border-radius: 10px 10px 0 0;
+  border-bottom: 5px solid white;
+}
+
+// .grouping {
+//   // margin-bottom: 20px;
+//   // display: flex;
+//   // width: 100vw;
+// }
+
+/* Objective: find a better, more clear method of displaying card-count */
+// .card-box .cardQuantity1 {
+//   // border-top: 4px dotted gray;
+// }
+
+.card-box .cardQuantity2 {
+  border-top: 4px groove gray;
+  border-right: 4px groove lightyellow;
+}
+
+.card-box .cardQuantity3 {
+  border-top: 4px groove gray;
+  border-right: 4px groove lightyellow;
+  border-bottom: 4px groove lightblue;
+}
+
+.card-box .cardQuantity4 {
+  border-top: 4px groove gray;
+  border-bottom: 4px groove lightblue;
+  border-right: 4px groove lightyellow;
+  border-left: 4px groove lightgreen;
+}

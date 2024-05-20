@@ -1,0 +1,65 @@
+<!-- <div class="flex flex-row justify-between items-center h-3/4 w-full bg-white text-black"> -->
+<div class="mainn" id="totop" style="max-width: 100vw; " style="color: white !important; ">
+
+  <!-- Navigation -->
+  <nav id="nav">
+    <a *ngFor="let manaVal of createRange(20)" 
+        style="display: inline-block; margin-left: 10px;"
+        href="#jumpto{{manaVal}}"
+        >
+      ({{manaVal}})
+    </a>
+  </nav>
+
+  <!-- Options UI -->
+  <div>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    Info:
+    <input type="checkbox" [checked]="showInfo" (change)="showInfo = !showInfo" />
+    <br/>
+  </div>
+
+  <!-- All cards -->
+  <div>
+    <div *ngFor="let manaVal of createRange(20)" style="margin-bottom: 50px; ">
+
+      <!-- Cost text -->
+      <div style="font-size: 4em; font-weight: bold; padding-left: 10px; ">
+        <a href="#totop">COST:</a> {{manaVal}}
+      </div>
+
+      <!-- Card cost grouping -->
+      <div class="flex flex-wrap">
+        <div  *ngFor="let item of FEObjs" id="jumpto{{manaVal}}" class="card-box">
+          <img *ngIf="item.manaVal == manaVal"
+            [src]="item.src"
+            [alt]="item.src"
+            [title]="item.title"
+            (click)="openLink(item.src)"
+            class="cardQuantity{{item.quantity}}"
+          />
+          <pre *ngIf="showInfo && item.manaVal == manaVal" style="font-family: Consolas; font-size: 10px; width: 287px; height: 80px; margin: 5px 0; overflow: auto; border: 1px solid green; " >
+            {{item.allData}}
+            <!-- {{JSON.stringify(item.allData, undefined, 2)}} -->
+          </pre>
+        </div> <!-- End ngFor item of FEObjs -->
+      </div>
+
+    </div> <!-- End ngFor manaVal of createRange(20) -->
+  </div>
+
+  <!-- <footer class="h-8 bg-success-500 w-full self-end fixed bottom-0 grid place-content-center">
+        [onclick]="e => window.open(item.src, '_blank')"
+  </footer> -->
+</div> <!-- End mainn -->
+
+<!-- Loading -->
+<ngx-loading-bar [includeSpinner]="false" color="red"></ngx-loading-bar>
+
+<!-- Angular Router (unused for now) -->
+<router-outlet></router-outlet>
