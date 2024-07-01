@@ -17,15 +17,12 @@ Deck
 1 Chandra, Awakened Inferno (M20) 127
 1 Jace, the Perfected Mind (ONE) 57
 1 The Wandering Emperor (NEO) 42
-1 Timeless Lotus (DMU) 239
-1 Teferi, Temporal Pilgrim (BRO) 66
+1 Underrealm Lich (GRN) 211
 1 The Eternal Wanderer (ONE) 11
 2 Snow-Covered Forest (KHM) 284
 1 Liliana of the Veil (DMU) 97
 1 Chandra, Hope's Beacon (MOM) 134
-1 Outlaws' Merriment (OTP) 51
 1 Wrenn and Realmbreaker (MOM) 217
-1 Wrenn and Seven (MID) 208
 1 Teferi, Who Slows the Sunset (MID) 245
 1 Invasion of New Phyrexia (MOM) 239
 1 Kaya, Spirits' Justice (MKM) 211
@@ -35,7 +32,7 @@ Deck
 1 Tamiyo, Compleated Sage (NEO) 238
 1 Fractured Identity (OTP) 45
 1 Temporary Lockdown (DMU) 36
-1 Repair and Recharge (BRO) 24
+1 Tribute to the World Tree (MOM) 211
 1 The Enigma Jewel (LCI) 55
 1 Invasion of Arcavios (MOM) 61
 1 One with the Multiverse (BRO) 59
@@ -48,8 +45,7 @@ Deck
 1 Conduit of Worlds (ONE) 163
 1 Spirit-Sister's Call (NEO) 237
 1 Invasion of Tolvada (MOM) 241
-2 Analyze the Pollen (MKM) 150
-3 Buried in the Garden (MKM) 191
+2 Buried in the Garden (MKM) 191
 3 Colossal Skyturtle (NEO) 216
 1 Agatha's Soul Cauldron (WOE) 242
 3 Collector's Vault (WOE) 244
@@ -69,16 +65,13 @@ Deck
 1 Restless Fortress (WOE) 259
 1 Defense of the Heart (WOT) 51
 1 Restless Reef (LCI) 282
-2 Promising Vein (LCI) 279
+1 Tarnation Vista (BIG) 30
 1 Restless Vents (LCI) 284
 1 Restless Cottage (WOE) 258
-1 Evolving Wilds (BRO) 261
 1 Hengegate Pathway (KHM) 260
 1 Rockfall Vale (MID) 266
-1 Restless Prairie (LCI) 281
 1 A-Hall of Tagsin (BRO) 263
 1 Blast Zone (BRO) 258
-4 Crystal Grotto (WOE) 254
 1 Echoing Deeps (LCI) 271
 4 Field of Ruin (MID) 262
 4 Public Thoroughfare (MKM) 265
@@ -96,12 +89,10 @@ Deck
 1 Settle the Wreckage (XLN) 34
 1 Sunfall (MOM) 40
 1 Farewell (NEO) 13
-1 Memory Deluge (MID) 62
 1 Virtue of Knowledge (WOE) 76
 1 Peer into the Abyss (M21) 117
 1 River's Rebuke (XLN) 71
 1 Jin-Gitaxias, Progress Tyrant (NEO) 59
-1 Teferi's Time Twist (WAR) 72
 1 Vesuvan Mist (Y23) 7
 1 Ritual of Soot (GRN) 84
 1 Terror Tide (LCI) 127
@@ -109,27 +100,23 @@ Deck
 1 Gix's Command (BRO) 97
 1 Shigeki, Jukai Visionary (NEO) 206
 1 Breach the Multiverse (MOM) 94
-1 Outrageous Robbery (MKM) 97
 1 The Elder Dragon War (DMU) 121
 3 Rite of Oblivion (MID) 237
-1 Titania's Command (BRO) 194
-3 Faithful Mending (MID) 221
-3 Assemble the Team (Y23) 17
+1 Faithful Mending (MID) 221
+1 Assemble the Team (Y23) 17
 1 Squirming Emergence (LCI) 241
 2 Urgent Necropsy (MKM) 240
 2 Unburial Rites (SIS) 36
 2 Doppelgang (MKM) 198
 1 Rocco, Cabaretti Caterer (SNC) 218
-1 Cankerbloom (ONE) 161
+1 Reclamation Sage (M19) 196
 1 Atraxa, Grand Unifier (ONE) 196
 1 Golos, Tireless Pilgrim (M20) 226
 1 Surtland Frostpyre (KHM) 271
 1 Captain Sisay (INV) 237
 1 Shadows' Verdict (ZNR) 124
 1 Storm's Wrath (THB) 157
-1 Search for Glory (KHM) 27
 1 Mesmeric Orb (BRR) 31
-1 Kroxa, Titan of Death's Hunger (MUL) 114
 1 Chromatic Lantern (BRR) 10
 1 Rusko, Clockmaker (Y23) 24
 1 Key to the Archive (Y22) 59
@@ -141,14 +128,11 @@ Deck
 1 Littjara Mirrorlake (KHM) 264
 1 Tough Cookie (WOE) 193
 1 Stroke of Midnight (WOE) 33
-1 Volatile Fjord (KHM) 273
 1 The Everflowing Well (LCI) 56
-1 Haunted Fengraf (SIS) 76
 1 Hoarding Broodlord (MOM) 110
 4 Escape Tunnel (MKM) 261
 1 Timeless Witness (MH2) 179
 1 Aftermath Analyst (MKM) 148
-1 Solve the Equation (STX) 54
 1 Oko, the Ringleader (OTJ) 223
 1 The World Tree (KHM) 275
 1 Three Steps Ahead (OTJ) 75
@@ -158,52 +142,41 @@ Deck
 1 Ruthless Lawbringer (OTJ) 229
 1 Buried Ruin (JMP) 491
 1 Aetherflux Reservoir (KLR) 217
-1 Rhystic Study (WOT) 25
 1 Insatiable Avarice (OTJ) 91
 1 Demonic Bargain (VOW) 103
 1 Darkslick Shores (ONE) 250
-1 Port of Karfell (KHM) 265
-1 Lithoform Engine (ZNR) 245
+3 Port of Karfell (KHM) 265
 1 Nykthos, Shrine to Nyx (THS) 223
-1 Magmatic Channeler (ZNR) 148
 1 Nahiri's Resolve (MAT) 37
 1 Invasion of Kaldheim (MOM) 145
 1 Moon-Blessed Cleric (AFR) 26
 1 Springbloom Druid (MH1) 181
-1 Evolving Wilds (MID) 261
 1 Ghostly Prison (SPG) 19
 1 Brokers Hideout (SNC) 248
 1 Razorverge Thicket (ONE) 257
-1 Meticulous Archive (MKM) 264
 2 Inspiring Vantage (OTJ) 269
-2 Blooming Marsh (OTJ) 266
+3 Blooming Marsh (OTJ) 266
 1 Spirebluff Canal (OTJ) 270
 1 Cragcrown Pathway (ZNR) 261
 1 Reliquary Tower (M19) 254
-1 Krenko, Tin Street Kingpin (WAR) 137
 1 Copperline Gorge (ONE) 249
 1 Sulfur Falls (DAR) 247
 2 Dragonskull Summit (XLN) 252
-1 Sunset Revelry (MID) 38
-1 Lively Dirge (OTJ) 93
+1 Timely Reinforcements (M12) 40
+1 Bovine Intervention (OTJ) 6
 1 A-Dawnbringer Cleric (HBG) 87
-1 Impetuous Lootmonger (Y24) 12
-1 Signature Spells (HBG) 37
-1 Weave the Nightmare (Y24) 29
-1 Scuttletide (MH2) 61
-1 Brokers' Safeguard (Y22) 20
+1 Triumphant Getaway (Y24) 27
 1 Radiant Fountain (M21) 248
 1 A-Lier, Disciple of the Drowned (MID) 59
 1 Moritte of the Frost (KHM) 223
-4 Lórien Revealed (LTR) 60
+1 Lórien Revealed (LTR) 60
 1 Yavimaya Coast (DMU) 261
 1 Brushland (BRO) 259
 1 Llanowar Wastes (BRO) 264
 1 Battlefield Forge (BRO) 257
-2 Caves of Koilos (DMU) 244
+3 Caves of Koilos (DMU) 244
 1 Sulfurous Springs (DMU) 256
 1 Shivan Reef (DMU) 255
-1 Undercity Sewers (MKM) 270
 1 Drowned Catacomb (XLN) 253
 1 Glacial Fortress (XLN) 255
 1 Isolated Chapel (DAR) 241
@@ -212,8 +185,45 @@ Deck
 1 Clifftop Retreat (DAR) 239
 1 Sunpetal Grove (XLN) 257
 1 Hinterland Harbor (DAR) 240
-1 Tangled Islet (DMU) 258
-1 Emporium Thopterist (Y24) 5
+1 Invasion of Zendikar (MOM) 194
+1 Invasion of New Capenna (MOM) 238
+1 The Eldest Reborn (DAR) 90
+1 Dedicated Dollmaker (Y24) 2
+1 Binding the Old Gods (KHM) 206
+1 Spara's Headquarters (SNC) 257
+1 Karn's Bastion (WAR) 248
+1 Xander's Lounge (SNC) 260
+1 Crawling Sensation (SIR) 191
+1 Storm of Saruman (LTR) 72
+1 Displacer Kitten (HBG) 115
+1 Teferi's Time Twist (WAR) 72
+1 Primeval Titan (M11) 192
+1 Cryptic Coat (MKM) 50
+1 Tear Asunder (DMU) 183
+1 Sun Titan (M11) 35
+1 Ravenous Chupacabra (RIX) 82
+1 Meticulous Excavation (BRO) 16
+1 Phyrexian Scrapyard (Y23) 30
+1 Fierce Empath (M21) 181
+1 Sunscorched Desert (AKR) 331
+1 Titans' Nest (IKO) 212
+1 Axgard Armory (KHM) 250
+1 Emergence Zone (WAR) 245
+1 Herald of Vengeance (Y22) 2
+1 Drannith Ruins (MAT) 50
+1 Porcine Portent (Y24) 23
+1 Roxanne, Starfall Savant (OTJ) 228
+1 Tome of the Infinite (J21) 13
+1 Doubling Season (WOT) 52
+1 Memorial to Folly (DAR) 242
+1 Journey to Eternity (RIX) 160
+1 Etali's Favor (LCI) 149
+1 Impetuous Lootmonger (Y24) 12
+1 Signature Spells (HBG) 37
+1 Weave the Nightmare (Y24) 29
+1 Teferi's Protection (STA) 11
+1 Scrollshift (MOM) 34
+1 Into the Fire (MOM) 144
 
 Sideboard
 1 Yorion, Sky Nomad (MUL) 129
@@ -231,11 +241,20 @@ let mainData: any = mainJSData
 export class AppComponent implements OnDestroy {
   $destroy: Subject<void> = new Subject();
 
+  public searchFilter: string = ''
+
   public allCardData = []
   public console = window.console
   public showInfo: boolean = false
   public myDeckPasteStr = myDeckPasteStr_
   public FEObjs: {src: string, title: string, manaVal: string|number, allData: any, quantity: number}[] = []
+
+  searchFilterKeyPressEvent(evt: any) {
+    if(evt.key == 'Enter') {
+      this.console.log(evt)
+      // Objective: perform filter on FE
+    }
+  }
 
   // Initialize the application.
   initApp() {

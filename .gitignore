@@ -49,6 +49,8 @@ testem.log
 .DS_Store
 Thumbs.db
 
+.vscode
+
 # Cypress artefacts
 cypress/videos/**
 cypress/screenshots/**

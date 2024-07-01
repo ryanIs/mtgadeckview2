@@ -11,6 +11,7 @@
     </a>
   </nav>
 
+
   <!-- Options UI -->
   <div>
     <br/>
@@ -22,6 +23,11 @@
     Info:
     <input type="checkbox" [checked]="showInfo" (change)="showInfo = !showInfo" />
     <br/>
+      
+    <!-- Filter -->
+    <div>
+      Filter: <input [(ngModel)]="searchFilter" (keypress)="searchFilterKeyPressEvent($event)" />
+    </div>
   </div>
 
   <!-- All cards -->
