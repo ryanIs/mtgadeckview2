@@ -50,6 +50,7 @@ testem.log
 Thumbs.db
 
 .vscode
+.vs
 
 # Cypress artefacts
 cypress/videos/**

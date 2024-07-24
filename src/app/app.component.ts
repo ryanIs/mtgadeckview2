@@ -249,10 +249,28 @@ export class AppComponent implements OnDestroy {
   public myDeckPasteStr = myDeckPasteStr_
   public FEObjs: {src: string, title: string, manaVal: string|number, allData: any, quantity: number}[] = []
 
+  /*
+    Match the behavior of the MTG search bar.
+
+    Samples:
+
+    "enters the battlefield" -> exact search
+    enters the battlefield -> may contain any divided by spaces
+    "enters the" battlefield -> exact match on "enters the" and has "battlefield" somewhere
+    t:creature "enters the battlefield" -> card type=creature  and has exact search of "enters the battlefield"
+    etc.
+  */
   searchFilterKeyPressEvent(evt: any) {
     if(evt.key == 'Enter') {
       this.console.log(evt)
       // Objective: perform filter on FE
+
+      this.searchFilter = this.searchFilter.toLowerCase()
+
+      if(this.searchFilter.indexOf('type') != -1 || this.searchFilter.indexOf('type') != -1) {
+        // Objective: filter by type and fetch
+      }
+
     }
   }
 
