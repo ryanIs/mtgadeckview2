@@ -13,217 +13,201 @@ Companion
 1 Yorion, Sky Nomad (MUL) 129
 
 Deck
-1 Tezzeret, Betrayer of Flesh (NEO) 84
-1 Chandra, Awakened Inferno (M20) 127
-1 Jace, the Perfected Mind (ONE) 57
-1 The Wandering Emperor (NEO) 42
-1 Underrealm Lich (GRN) 211
-1 The Eternal Wanderer (ONE) 11
 2 Snow-Covered Forest (KHM) 284
-1 Liliana of the Veil (DMU) 97
-1 Chandra, Hope's Beacon (MOM) 134
-1 Wrenn and Realmbreaker (MOM) 217
-1 Teferi, Who Slows the Sunset (MID) 245
-1 Invasion of New Phyrexia (MOM) 239
-1 Kaya, Spirits' Justice (MKM) 211
-1 Kaya, Intangible Slayer (ONE) 205
-1 Furgul, Quag Nurturer (Y24) 23
-1 Pool of Vigorous Growth (J21) 28
-1 Tamiyo, Compleated Sage (NEO) 238
-1 Fractured Identity (OTP) 45
-1 Temporary Lockdown (DMU) 36
-1 Tribute to the World Tree (MOM) 211
-1 The Enigma Jewel (LCI) 55
-1 Invasion of Arcavios (MOM) 61
-1 One with the Multiverse (BRO) 59
-1 Invasion of Innistrad (MOM) 115
-1 Sheoldred (MOM) 125
-1 Virtue of Persistence (WOE) 115
+1 Toxic Deluge (MH3) 277
 1 Brass's Tunnel-Grinder (LCI) 135
-1 Urabrask's Forge (ONE) 153
-1 A-Visions of Phyrexia (BRO) 156
-1 Conduit of Worlds (ONE) 163
-1 Spirit-Sister's Call (NEO) 237
-1 Invasion of Tolvada (MOM) 241
-2 Buried in the Garden (MKM) 191
-3 Colossal Skyturtle (NEO) 216
-1 Agatha's Soul Cauldron (WOE) 242
-3 Collector's Vault (WOE) 244
-1 Karn's Sylex (DMU) 234
-1 Matzalantli, the Great Door (LCI) 256
-1 Old Rutstein (VOW) 244
-1 The Celestus (MID) 252
-1 Dollhouse of Horrors (VOW) 255
-1 Chimil, the Inner Sun (LCI) 249
-1 Portal to Phyrexia (BRO) 240
-1 Sunken Citadel (LCI) 285
-2 Conduit Pylons (OTJ) 254
+2 Invasion of Tolvada (MOM) 241
+4 Collector's Vault (WOE) 244
 1 Sokenzan, Crucible of Defiance (NEO) 276
-1 Argoth, Sanctum of Nature (BRO) 256
-1 Shatterskull Smashing (ZNR) 161
-1 Restless Anchorage (LCI) 280
-1 Restless Fortress (WOE) 259
-1 Defense of the Heart (WOT) 51
-1 Restless Reef (LCI) 282
-1 Tarnation Vista (BIG) 30
-1 Restless Vents (LCI) 284
+3 Restless Anchorage (LCI) 280
 1 Restless Cottage (WOE) 258
-1 Hengegate Pathway (KHM) 260
-1 Rockfall Vale (MID) 266
+1 Mirran Safehouse (ONE) 232
 1 A-Hall of Tagsin (BRO) 263
-1 Blast Zone (BRO) 258
 1 Echoing Deeps (LCI) 271
-4 Field of Ruin (MID) 262
-4 Public Thoroughfare (MKM) 265
-1 Pit of Offerings (LCI) 278
-1 Scene of the Crime (MKM) 267
-1 Mirrex (ONE) 254
+1 Field of Ruin (MID) 262
+1 Thespian's Stage (GTC) 248
+1 Monumental Henge (MH3) 222
 1 The Mycosynth Gardens (ONE) 256
-1 Volatile Fault (LCI) 286
-1 Bojuka Bog (WWK) 132
 4 Khalni Garden (J21) 121
-1 Invasion of Fiora (MOM) 114
-1 Werefox Bodyguard (WOE) 39
-1 Depopulate (SNC) 10
-3 No Witnesses (MKM) 27
-1 Settle the Wreckage (XLN) 34
 1 Sunfall (MOM) 40
 1 Farewell (NEO) 13
-1 Virtue of Knowledge (WOE) 76
-1 Peer into the Abyss (M21) 117
-1 River's Rebuke (XLN) 71
-1 Jin-Gitaxias, Progress Tyrant (NEO) 59
-1 Vesuvan Mist (Y23) 7
-1 Ritual of Soot (GRN) 84
-1 Terror Tide (LCI) 127
-1 Angel of Suffering (SNC) 67
-1 Gix's Command (BRO) 97
-1 Shigeki, Jukai Visionary (NEO) 206
-1 Breach the Multiverse (MOM) 94
-1 The Elder Dragon War (DMU) 121
-3 Rite of Oblivion (MID) 237
-1 Faithful Mending (MID) 221
-1 Assemble the Team (Y23) 17
+4 Assemble the Team (Y23) 17
 1 Squirming Emergence (LCI) 241
-2 Urgent Necropsy (MKM) 240
-2 Unburial Rites (SIS) 36
-2 Doppelgang (MKM) 198
-1 Rocco, Cabaretti Caterer (SNC) 218
-1 Reclamation Sage (M19) 196
-1 Atraxa, Grand Unifier (ONE) 196
-1 Golos, Tireless Pilgrim (M20) 226
-1 Surtland Frostpyre (KHM) 271
-1 Captain Sisay (INV) 237
-1 Shadows' Verdict (ZNR) 124
-1 Storm's Wrath (THB) 157
-1 Mesmeric Orb (BRR) 31
-1 Chromatic Lantern (BRR) 10
-1 Rusko, Clockmaker (Y23) 24
-1 Key to the Archive (Y22) 59
-1 Hostage Taker (XLN) 223
 2 Snow-Covered Plains (KHM) 277
 2 Snow-Covered Swamp (KHM) 281
-2 Snow-Covered Mountain (KHM) 283
+3 Snow-Covered Mountain (KHM) 283
 2 Snow-Covered Island (KHM) 278
-1 Littjara Mirrorlake (KHM) 264
-1 Tough Cookie (WOE) 193
-1 Stroke of Midnight (WOE) 33
-1 The Everflowing Well (LCI) 56
-1 Hoarding Broodlord (MOM) 110
-4 Escape Tunnel (MKM) 261
-1 Timeless Witness (MH2) 179
-1 Aftermath Analyst (MKM) 148
-1 Oko, the Ringleader (OTJ) 223
-1 The World Tree (KHM) 275
+4 The World Tree (KHM) 275
 1 Three Steps Ahead (OTJ) 75
-1 Etali, Primal Conqueror (MOM) 137
-1 A-The One Ring (LTR) 246
-1 Mythos of Illuna (IKO) 58
-1 Ruthless Lawbringer (OTJ) 229
-1 Buried Ruin (JMP) 491
-1 Aetherflux Reservoir (KLR) 217
-1 Insatiable Avarice (OTJ) 91
 1 Demonic Bargain (VOW) 103
-1 Darkslick Shores (ONE) 250
-3 Port of Karfell (KHM) 265
+1 Port of Karfell (KHM) 265
 1 Nykthos, Shrine to Nyx (THS) 223
-1 Nahiri's Resolve (MAT) 37
-1 Invasion of Kaldheim (MOM) 145
-1 Moon-Blessed Cleric (AFR) 26
-1 Springbloom Druid (MH1) 181
-1 Ghostly Prison (SPG) 19
-1 Brokers Hideout (SNC) 248
-1 Razorverge Thicket (ONE) 257
-2 Inspiring Vantage (OTJ) 269
-3 Blooming Marsh (OTJ) 266
-1 Spirebluff Canal (OTJ) 270
-1 Cragcrown Pathway (ZNR) 261
-1 Reliquary Tower (M19) 254
-1 Copperline Gorge (ONE) 249
-1 Sulfur Falls (DAR) 247
-2 Dragonskull Summit (XLN) 252
-1 Timely Reinforcements (M12) 40
-1 Bovine Intervention (OTJ) 6
-1 A-Dawnbringer Cleric (HBG) 87
-1 Triumphant Getaway (Y24) 27
-1 Radiant Fountain (M21) 248
-1 A-Lier, Disciple of the Drowned (MID) 59
-1 Moritte of the Frost (KHM) 223
-1 Lórien Revealed (LTR) 60
-1 Yavimaya Coast (DMU) 261
-1 Brushland (BRO) 259
-1 Llanowar Wastes (BRO) 264
-1 Battlefield Forge (BRO) 257
-3 Caves of Koilos (DMU) 244
-1 Sulfurous Springs (DMU) 256
-1 Shivan Reef (DMU) 255
-1 Drowned Catacomb (XLN) 253
-1 Glacial Fortress (XLN) 255
-1 Isolated Chapel (DAR) 241
-1 Woodland Cemetery (DAR) 248
-1 Rootbound Crag (XLN) 256
-1 Clifftop Retreat (DAR) 239
-1 Sunpetal Grove (XLN) 257
-1 Hinterland Harbor (DAR) 240
-1 Invasion of Zendikar (MOM) 194
-1 Invasion of New Capenna (MOM) 238
-1 The Eldest Reborn (DAR) 90
-1 Dedicated Dollmaker (Y24) 2
-1 Binding the Old Gods (KHM) 206
-1 Spara's Headquarters (SNC) 257
+1 Lush Portico (MKM) 263
+1 Underground Mortuary (MKM) 271
+1 Commercial District (MKM) 259
+2 Grim Servant (MH3) 97
+3 Binding the Old Gods (KHM) 206
 1 Karn's Bastion (WAR) 248
-1 Xander's Lounge (SNC) 260
-1 Crawling Sensation (SIR) 191
-1 Storm of Saruman (LTR) 72
-1 Displacer Kitten (HBG) 115
-1 Teferi's Time Twist (WAR) 72
-1 Primeval Titan (M11) 192
-1 Cryptic Coat (MKM) 50
-1 Tear Asunder (DMU) 183
-1 Sun Titan (M11) 35
-1 Ravenous Chupacabra (RIX) 82
-1 Meticulous Excavation (BRO) 16
 1 Phyrexian Scrapyard (Y23) 30
-1 Fierce Empath (M21) 181
-1 Sunscorched Desert (AKR) 331
-1 Titans' Nest (IKO) 212
-1 Axgard Armory (KHM) 250
 1 Emergence Zone (WAR) 245
-1 Herald of Vengeance (Y22) 2
-1 Drannith Ruins (MAT) 50
-1 Porcine Portent (Y24) 23
-1 Roxanne, Starfall Savant (OTJ) 228
-1 Tome of the Infinite (J21) 13
-1 Doubling Season (WOT) 52
-1 Memorial to Folly (DAR) 242
-1 Journey to Eternity (RIX) 160
-1 Etali's Favor (LCI) 149
-1 Impetuous Lootmonger (Y24) 12
-1 Signature Spells (HBG) 37
-1 Weave the Nightmare (Y24) 29
-1 Teferi's Protection (STA) 11
-1 Scrollshift (MOM) 34
-1 Into the Fire (MOM) 144
+1 Shifting Woodland (MH3) 228
+4 Urza's Cave (MH3) 234
+1 Inventors' Fair (KLR) 284
+1 Nesting Grounds (MH3) 302
+3 Dryad's Revival (MID) 183
+1 Primal Command (OTP) 31
+1 Hedge Maze (MKM) 262
+1 Tan Jolom, the Worldwalker (Y24) 30
+1 Otawara, Soaring City (NEO) 271
+1 Fountainport (BLB) 253
+1 Hanweir Battlements (SIR) 271
+1 Hour of Revelation (AKR) 23
+1 Fomori Vault (BIG) 29
+1 Mizzix's Mastery (STA) 43
+1 Phyrexian Tower (JMP) 493
+1 Unburial Rites (SIS) 36
+3 Moritte of the Frost (KHM) 223
+1 Dust Bowl (OTP) 65
+1 Takenuma, Abandoned Mire (NEO) 278
+1 Mesmeric Orb (BRR) 31
+1 Sevinne's Reclamation (MH3) 267
+1 Ruthless Lawbringer (OTJ) 229
+1 Fear of Change (Y25) 21
+1 Aclazotz, Deepest Betrayal (LCI) 88
+1 Littjara Mirrorlake (KHM) 264
+1 Hostage Taker (XLN) 223
+4 Surgical Metamorph (Y23) 6
+4 Lively Dirge (OTJ) 93
+1 Rite of Oblivion (MID) 237
+4 Recruiter of the Guard (MH3) 266
+1 A-The One Ring (LTR) 246
+1 Gamble (SPG) 24
+1 Restless Reef (LCI) 282
+4 Crawling Sensation (SIR) 191
+1 Colossal Skyturtle (NEO) 216
+1 Timeless Witness (MH2) 179
+1 Essence Reliquary (MH3) 24
+1 Mount Doom (LTR) 258
+1 Restless Vents (LCI) 284
+1 Urgent Necropsy (MKM) 240
+1 Enduring Vitality (DSK) 176
+1 Mana Confluence (JOU) 163
+1 Fierce Empath (M21) 181
+1 Esika, God of the Tree (KHM) 168
+1 Ertai Resurrected (DMU) 199
+1 Ziatora's Proving Ground (SNC) 261
+1 Charming Prince (FDN) 568
+2 Fabled Passage (BLB) 252
+1 Vesuvan Mist (Y23) 7
+1 Beza, the Bounding Spring (BLB) 2
+1 Treasure Vault (AFR) 261
+1 Priest of Fell Rites (MH2) 208
+1 Realm-Cloaked Giant (ELD) 26
+1 Assassin's Trophy (MKM) 187
+1 Boggart Trawler (MH3) 243
+1 Eiganjo, Seat of the Empire (NEO) 268
+1 Gnaw to the Bone (SIS) 50
+1 Sunken Citadel (LCI) 285
+1 Dedicated Dollmaker (Y24) 2
+1 Pool of Vigorous Growth (J21) 28
+1 Trackhand Trainer (Y25) 6
+1 Contagion Dispenser (Y23) 19
+1 Artist's Talent (BLB) 124
+1 Anointed Procession (AKR) 2
+1 Valgavoth's Lair (DSK) 271
+1 The Shire (LTR) 260
+1 Boseiju, Who Endures (NEO) 266
+1 Mirrex (ONE) 254
+1 Xander's Wake (Y22) 9
+1 Invasion of Zendikar (MOM) 194
+1 Fumigate (FDN) 575
+3 Bring to Light (PIO) 209
+1 Teferi, Who Slows the Sunset (MID) 245
+1 Scavenger's Talent (BLB) 111
+1 Spara's Headquarters (SNC) 257
+1 Throes of Chaos (MH1) 150
+1 Wrenn and Realmbreaker (MOM) 217
+1 Springbloom Druid (MH1) 181
+1 Conduit of Worlds (ONE) 163
+2 Analyze the Pollen (MKM) 150
+1 Day of Judgment (FDN) 140
+1 Radiant Fountain (M21) 248
+1 Mischievous Lookout (Y25) 25
+1 Euru, Acorn Scrounger (Y25) 24
+1 Tibalt, Wicked Tormentor (Y22) 43
+2 Invasion of Ikoria (MOM) 190
+3 Beseech the Mirror (WOE) 82
+1 Season of the Burrow (BLB) 29
+1 Invasion of Arcavios (MOM) 61
+1 Tom Bombadil (LTR) 234
+1 Wishclaw Talisman (ELD) 110
+1 Restless Fortress (WOE) 259
+1 Lotus Field (M20) 249
+1 Kardur's Vicious Return (KHM) 217
+1 Heaped Harvest (BLB) 175
+2 Gate to Tumbledown (HBG) 81
+1 Agatha's Soul Cauldron (WOE) 242
+1 Coati Scavenger (LCI) 179
+1 Worldwalker Helm (BIG) 7
+1 Garruk, Wrath of the Wilds (Y22) 47
+1 Disciple of Freyalise (MH3) 250
+1 Ornithopter (BRR) 37
+1 The Trickster-God's Heist (KHM) 232
+1 Cogwork Progenitor (Y24) 1
+1 Barbarian Ring (MH3) 299
+1 Housemeld (Y25) 5
+1 Cabaretti Revels (Y22) 21
+1 Argoth, Sanctum of Nature (BRO) 256
+1 Elvish Reclaimer (M20) 169
+1 Key to the Archive (Y22) 59
+1 Peregrin Took (LTR) 181
+1 Ornate Imitations (Y25) 23
+1 Insatiable Avarice (OTJ) 91
+1 Tamiyo, Inquisitive Student (MH3) 242
+1 Maze's End (PIO) 269
+1 Goldberry, River-Daughter (LTR) 52
+1 Retrofitter Foundry (C18) 57
+1 Gilded Goose (ELD) 160
+1 Crawling Barrens (FDN) 685
+1 Hall of Oracles (STX) 267
+1 Voldaren Estate (VOW) 267
+1 A-Thran Portal (DMU) 259
+1 Path to Exile (OTP) 6
+1 Ghost Lantern (HBG) 155
+1 Invasion of Innistrad (MOM) 115
+1 Mystic Sanctuary (ELD) 247
+1 Gingerbread Cabin (ELD) 245
+1 Soul Warden (M10) 34
+1 A Golden Opportunity (Y24) 13
+1 Vigorous Farming (Y25) 19
+1 Treasure Dredger (OTJ) 110
+1 Expand the Sphere (ONE) 168
+1 Spawning Pod (Y23) 16
+1 A-Haywire Mite (BRO) 199
+1 Repurposing Bay (DFT) 56
+1 Chord of Calling (M15) 172
+1 Cataclysmic Gearhulk (KLR) 12
+1 Encroaching Mycosynth (ONE) 47
+1 Golos, Tireless Pilgrim (M20) 226
+1 Chimil, the Inner Sun (LCI) 249
+1 Overlord of the Hauntwoods (DSK) 194
+1 Leyline of Anticipation (WOT) 23
+1 Labyrinth of Skophos (THB) 243
+4 Dwarven Mine (ELD) 243
+1 Idyllic Grange (ELD) 246
+1 Witch's Cottage (ELD) 249
+1 Whir of Invention (KLR) 73
+1 Thundering Broodwagon (DFT) 225
+1 Guidelight Pathmaker (DFT) 206
+1 Great Desert Prospector (BRO) 7
+1 Moon-Blessed Cleric (AFR) 26
+1 Call the Bloodline (SIR) 101
+1 Collector's Cage (BIG) 1
+1 Tidecaller Mentor (BLB) 236
+1 A-Karn, Living Legacy (DMU) 1
+1 Niko Aris (KHM) 225
+1 Rogue's Passage (PIO) 273
+1 Davriel, Soul Broker (J21) 15
 
 Sideboard
 1 Yorion, Sky Nomad (MUL) 129
@@ -363,7 +347,7 @@ export class AppComponent implements OnDestroy {
           myCardExpansion = 'OTC'
         } else if(myCardName.indexOf('Fractured Identity') != -1) {
           myCardExpansion = 'C17'
-        }else if(myCardName.indexOf('Key to the Archive') != -1) {
+        } else if(myCardName.indexOf('Key to the Archive') != -1) {
           myCardExpansion = 'YMID'
         } else if(myCardName.indexOf('Furgul, Quag Nurturer') != -1) {
           myCardExpansion = 'YMKM'
@@ -430,6 +414,7 @@ export class AppComponent implements OnDestroy {
         // return [`${myCardNameFull}`, 0] 
       }
 
+      // [ ] Update to utilize different API - bigger default.json may be better (so that cards won't go missing when new patches arrive)
       let baseImageUrl = 'https://gatherer.wizards.com/Handlers/Image.ashx'
       let getGWUrl = (id:number) => `${baseImageUrl}?multiverseid=${id}&type=card`
       let finalGWUrl = getGWUrl(mvid)
